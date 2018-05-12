@@ -1,10 +1,16 @@
 _repo: The-River-Motor-Boat-Boys-on-the-Yukon-The-Lost-Mine-of-Rainbow-Bend_50831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50831-rst/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Harry
     gutenberg_agent_id: '39477'
     url: http://www.gutenberg.org/2009/agents/39477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50831#The-River-Motor-Boat-Boys-on-the-Yukon-The-Lost-Mine-of-Rainbow-Bend
 gutenberg_issued: '2016-01-02'
 gutenberg_type: Text
 identifiers:
